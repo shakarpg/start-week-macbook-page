@@ -6,7 +6,7 @@ Projeto desenvolvido durante a **Start Week**, com o objetivo de colocar em prá
 
 ## 📸 Preview
 
-![Preview do Projeto](./src/assets/images/preview.jpg)  
+![Preview do Projeto](https://shakarpg.github.io/start-week-macbook-page/) 
 *Simulação visual da landing page clonada.*
 
 ---
